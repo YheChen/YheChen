@@ -1,6 +1,6 @@
 # Yanzhen Chen
 
-Currently working as a Software Engineer on Co-op at Bree (YC 21).
+Currently working as a Software Engineer on a Co-op term at Bree (YC 21).
 
 Computer Science major at the University of Toronto, pursuing minors in Mathematics and Statistics.
 
