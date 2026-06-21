@@ -10,4 +10,4 @@ Portfolio: https://yanzhenchen.ca \
 Resume: https://yanzhenchen.ca/resume.pdf  
 GitHub: https://github.com/YheChen  
 LinkedIn: https://linkedin.com/in/yanzhenchen \
-TorontoGuessr: https://www.torontoguessr.ca/
+TorontoGuessr: https://www.torontoguessr.ca
