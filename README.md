@@ -1,13 +1,21 @@
 # Yanzhen Chen
 
-Currently working as a Software Engineer on a Co-op term at Bree (YC 21).
+Software Engineer @ Bree (YC S21) · Computer Science @ University of Toronto
 
-Computer Science major at the University of Toronto, pursuing minors in Mathematics and Statistics.
+I like building systems from first principles — databases, runtimes, networking, compilers, and developer tools. I also enjoy shipping software that people actually use.
 
-I am interested in machine learning systems, scalable backend infrastructure, and optimization. My work emphasizes mathematical rigor, production-quality engineering, and measurable impact. I enjoy designing reliable systems, reasoning about performance and failure modes, and building clean, maintainable software grounded in strong fundamentals.
+What I’m building
 
-Portfolio: https://yanzhenchen.ca \
-Resume: https://yanzhenchen.ca/resume.pdf  
-GitHub: https://github.com/YheChen  
-LinkedIn: https://linkedin.com/in/yanzhenchen \
-TorontoGuessr: https://www.torontoguessr.ca
+* ChenDB - relational database engine built from scratch, with B+ tree indexing, query optimization, transactions, and crash recovery.
+* NovaOS - browser-based systems lab spanning a C-like compiler, 32-bit VM, kernel, and deterministic time-travel debugger.
+* FPS - multiplayer FPS and custom C++23 engine exploring authoritative networking, client prediction, reconciliation, and lag compensation.
+* TorontoGuessr - Toronto Street View guessing game played thousands of times, built with Next.js, Supabase/Postgres, and Google Maps.
+
+Experiences
+
+* 💻 Software Engineer @ Bree (YC S21)
+* 🛠️ Open-source contributor to MarkUs
+* 🎓 Computer Science @ University of Toronto
+* 🧑‍💻 President @ UofT Computer Science Student Union
+
+[Portfolio](https://yanzhenchen.ca/) · [LinkedIn](https://www.linkedin.com/in/yanzhenchen/) · [Resume](https://www.yanzhenchen.ca/resume.pdf)
