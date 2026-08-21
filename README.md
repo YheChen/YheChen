@@ -2,7 +2,7 @@
 
 Software Engineer @ Bree (YC S21) · Computer Science @ University of Toronto
 
-I like building systems from first principles — databases, runtimes, networking, compilers, and developer tools. I also enjoy shipping software that people actually use.
+I like building systems from first principles: databases, runtimes, networking, compilers, and developer tools. I also enjoy shipping software that people actually use.
 
 What I’m building
 
